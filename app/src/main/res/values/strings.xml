@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="title1">Historical Building</string>
+    <string name="title2">Palm Tree</string>
+    <string name="title3">Road Between Trees</string>
+    <string name="author1">Erin Raffensberger (2024)</string>
+    <string name="author2">Joaquin Carfagna (2023)</string>
+    <string name="author3">Julien Riedel (2024)</string>
+</resources>
